@@ -1,7 +1,9 @@
 # Minha lista de tarefas
+
 Desenvolver uma aplicação web simples que permita ao usuário adicionar, visualizar, marcar como concluídas e remover tarefas.
 
-#Tecnologias
+#Tecnologias utilizadas
+
 [] Html5
 [] CSS3
 [] Javascript
@@ -14,7 +16,7 @@ DOM (Document Object Model): como acessar e modificar elementos HTML com JS.
 
 Eventos: como usar onclick para interagir com o usuário.
 
-🎨 Front-end:
+Front-end:
 
 HTML: estrutura básica de uma página web.
 
